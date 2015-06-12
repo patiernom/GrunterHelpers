@@ -1,5 +1,5 @@
 {
-  "name": "GrunterHelpers",
+  "name": "grunterhelpers",
   "version": "0.0.1",
   "description": "Helpers module for Grunter",
   "main": "index.js",
