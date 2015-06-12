@@ -1,5 +1,5 @@
 {
-  "name": "grunterhelpers",
+  "name": "grunter-helpers",
   "version": "0.0.1",
   "description": "Helpers module for Grunter",
   "main": "index.js",
@@ -11,6 +11,9 @@
     "url": "https://github.com/patiernom/GrunterHelpers.git"
   },
   "keywords": [
+    "npm",
+    "module",
+    "grunter",
     "grunt"
   ],
   "author": "Marco Patierno",
